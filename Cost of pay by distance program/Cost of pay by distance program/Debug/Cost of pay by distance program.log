@@ -1,0 +1,6 @@
+﻿  Cost of pay by distance program.cpp
+C:\Users\User\source\repos\Cost of pay by distance program\Cost of pay by distance program\Cost of pay by distance program.cpp(26,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Cost of pay by distance program\Cost of pay by distance program\Cost of pay by distance program.cpp(29,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Cost of pay by distance program\Cost of pay by distance program\Cost of pay by distance program.cpp(32,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Cost of pay by distance program\Cost of pay by distance program\Cost of pay by distance program.cpp(35,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Cost of pay by distance program.vcxproj -> C:\Users\User\source\repos\Cost of pay by distance program\Debug\Cost of pay by distance program.exe
